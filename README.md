@@ -14,7 +14,9 @@ Step 1:
 The first step in factor analysis is to explore correlations between variables. Useful correlations included a positive correlation between between building violations and construction permits and a postive correlation between noise related construction complaints and construction permits, violations, income, and percent white. 
 
 Step 2:
-Factor analysis:
+Factor analysis
+
+
 
 
 
