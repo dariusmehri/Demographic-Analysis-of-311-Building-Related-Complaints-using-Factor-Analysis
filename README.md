@@ -26,6 +26,11 @@ Step 3: Spatial Analysis
 The factor analysis findings can be further interpreted using spatial analysis. Below are maps of income, percent white and noise related complaints in NYC from January through June 2015:
 
 
+![alt tag](https://cloud.githubusercontent.com/assets/11237613/17252663/8747f686-557b-11e6-8e6b-87582e96b7b9.png)
+
+![alt tag](https://cloud.githubusercontent.com/assets/11237613/17252625/6825fce4-557b-11e6-83c2-9070fe924cf0.png)
+
+![alt tag](https://cloud.githubusercontent.com/assets/11237613/17252643/7a8b7058-557b-11e6-844f-b908af6e2e7e.png)
 
 
 
