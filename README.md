@@ -5,4 +5,17 @@ building safety, and the accidents that can occur when buildings aren’t kept u
 decided it would be useful to explore this unrouted data to determine what it could tell us about building safety. 
 
 #Data
+The data consisted of 311 calls between January and June 2015. Variables related to DOB incidents but are not routed to the agency included: 
 
+
+●	Noise Related to Construction
+●	Leaks
+●	Sewer backup
+●	Water main break
+●	No access to building
+●	obstruction of sidewalk,
+●	air and ventilation issues,
+●	dirty water,
+●	No water and water drainage (catch basin). 
+Other variable include:
+●	Dept of Building construction permits
