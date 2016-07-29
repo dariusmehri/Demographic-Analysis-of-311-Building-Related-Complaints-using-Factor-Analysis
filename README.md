@@ -5,10 +5,18 @@ building safety, and the accidents that can occur when buildings aren’t kept u
 decided it would be useful to explore this unrouted data to determine what it could tell us about building safety. 
 
 #Data
-The data consisted of 311 calls between January and June 2015. Variables in the 311 database related to DOB incidents but are not routed to the agency included: noise related to construction, building water leaks, sewer backup,water main break, no access to building, obstruction of sidewalk, air and ventilation issues, dirty water and no water and water drainage (catch basin). Control variables included construction permits, income, percent non-English speakers and race variables that incluced white, Asian and African American. Demographic variables were included because recent research suggests that the decision to call 311 is associated with socio-economic status, race and whether the person is from a country outside of the United States. To incorporate these variables, the 311 data was aggregated at the census tract level. Since population density at the tract level influences the rate of 311 calls, the data was normalized using recent census tract population statistics. 
+The data consisted of 311 calls between January and June 2015. Variables in the 311 database related to DOB incidents but are not routed to the agency included: noise related to construction, building water leaks, sewer backup,water main break, no access to building, obstruction of sidewalk, air and ventilation issues, dirty water and no water and water drainage (catch basin). Control variables included construction permits, building violations,  income, percent non-English speakers and race variables that incluced white, Asian and African American. Demographic variables were included because recent research suggests that the decision to call 311 is associated with socio-economic status, race and whether the person is from a country outside of the United States. To incorporate these variables, the 311 data was aggregated at the census tract level. Since population density at the tract level influences the rate of 311 calls, the data was normalized using recent census tract population statistics. 
 
 #Method
-Factor analysis was used 
+Factor analysis was used to analyze hidden relationships between the variables. In general, factor analysis is a method that allows researchers to investigate concepts by collapsing a large number of variables into a few interpretable underlying factors. For more information about factor anlysis, see above articles and presentations.
+
+Step 1:
+The first step in factor analysis is to explore correlations between variables. Useful correlations included a positive correlation between between building violations and construction permits and a postive correlation between noise related construction complaints and construction permits, violations, income, and percent white. 
+
+Step 2:
+Factor analysis:
+
+
 
 
 
