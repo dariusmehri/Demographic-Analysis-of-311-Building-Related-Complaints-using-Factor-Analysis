@@ -5,17 +5,7 @@ building safety, and the accidents that can occur when buildings aren’t kept u
 decided it would be useful to explore this unrouted data to determine what it could tell us about building safety. 
 
 #Data
-The data consisted of 311 calls between January and June 2015. Variables related to DOB incidents but are not routed to the agency included: 
+The data consisted of 311 calls between January and June 2015. Variables in the 311 database related to DOB incidents but are not routed to the agency included: noise related to construction, building water leaks, sewer backup,water main break, no access to building, obstruction of sidewalk, air and ventilation issues, dirty water and no water and water drainage (catch basin). Control variables included construction permits, income, percent non-English speakers and race variables that incluced white, Asian and African American. Demographic variables were included because recent research suggests that the decision to call 311 is associated with socio-economic status, race and whether the person is from a country outside of the United States. 
 
 
-●	Noise Related to Construction
-●	Leaks
-●	Sewer backup
-●	Water main break
-●	No access to building
-●	obstruction of sidewalk,
-●	air and ventilation issues,
-●	dirty water,
-●	No water and water drainage (catch basin). 
-Other variable include:
-●	Dept of Building construction permits
+
