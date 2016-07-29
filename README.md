@@ -22,6 +22,11 @@ Interpretation: Factor 1 - Noisy construction related complaints are highly asso
 
 Ten Factors explain 57% of the variance in the data. Factor 1 contributed 14% of the total variance. The p-value is 0.056  indicates that there is about a 95% confidence that the observations are accurate. We can therefore assume that 10 factors are sufficient to explain for this model. 
 
+Step 3: Spatial Analysis
+The factor analysis findings can be further interpreted using spatial analysis. Below are maps of income, percent white and noise related complaints in NYC from January through June 2015:
+
+
+
 
 
 
