@@ -16,6 +16,8 @@ The first step in factor analysis is to explore correlations between variables. 
 Step 2:
 Factor analysis
 
+![alt tag] (https://cloud.githubusercontent.com/assets/11237613/17251998/e6b398b2-5578-11e6-83ab-33017f50042b.PNG)
+
 
 
 
