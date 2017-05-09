@@ -17,7 +17,7 @@ The first step in factor analysis is to explore correlations between variables. 
 Step 2:
 Factor analysis
 
-![alt tag] (https://cloud.githubusercontent.com/assets/11237613/17251998/e6b398b2-5578-11e6-83ab-33017f50042b.PNG)
+![factor analyiss picture](https://cloud.githubusercontent.com/assets/11237613/17251998/e6b398b2-5578-11e6-83ab-33017f50042b.PNG)
 
 Interpretation: Factor 1 - Noisy construction related complaints are highly associated with building violations, income, percent white, and obstruction of sidewalks. The relationship between these variables suggests that people who live in higher income areas that have a high percent of white population, and have a higher amount of construction permits while complain about noisy construction sites. Factor 2 indicates that water related complaints in New York City are related to a specific water event or events. This can have practical applications for the department working on water related issues. 
 
