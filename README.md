@@ -19,7 +19,7 @@ Factor analysis
 
 ![factor analyiss picture](https://cloud.githubusercontent.com/assets/11237613/17251998/e6b398b2-5578-11e6-83ab-33017f50042b.PNG)
 
-Interpretation: Factor 1 - Noisy construction related complaints are highly associated with building violations, income, percent white, and obstruction of sidewalks. The relationship between these variables suggests that people who live in high income areas with high construction activity, and with a high proportion of residents who are white, complain about noisy construction sites. Factor 2 indicates that water related complaints are related to a specific water event or events. This can have practical applications for the department working on water related issues. 
+Interpretation: Factor 1 - Noisy construction related complaints are highly associated with building violations, income, percent white, and obstruction of sidewalks. The relationship between these variables suggests that people who complain about noisy construction sites live in high income areas with high construction activity, and with a high proportion of residents who are white. Factor 2 indicates that water complaints are related to a specific water event or events. This can have practical applications for the department working on water related issues. 
 
 Ten Factors explain 57% of the variance in the data. Factor 1 contributed 14% of the total variance. The p-value is 0.056  indicates that there is about a 95% confidence that the observations are accurate. We can therefore assume that 10 factors are sufficient to explain for this model. 
 
